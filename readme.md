@@ -4,11 +4,11 @@ A program that can identify for every movie in the list, n other similar / relat
 ## Compiling and Running Project
  - **Windows Environment** :-  
  *Compile&nbsp;:* &nbsp; javac -cp .;./gson/gson-2.8.0.jar test/Test.java -d build/  
- *Run&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:* &nbsp; java -cp ./build/;./gson/gson-2.8.0.jar test.Test  
+ *Run&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:* &nbsp; java -cp ./build/;./gson/gson-2.8.0.jar test.Test  
   
  - **Unix** :-  
  *Compile&nbsp;:* &nbsp; javac -cp .:./gson/gson-2.8.0.jar test/Test.java -d build/  
- *Run&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:* &nbsp; java -cp ./build/:./gson/gson-2.8.0.jar test.Test  
+ *Run&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:* &nbsp; java -cp ./build/:./gson/gson-2.8.0.jar test.Test  
 
 
 ## Input and Output

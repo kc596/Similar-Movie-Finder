@@ -11,8 +11,8 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 
-import buzzotel.similarmovies.Movie;
-import buzzotel.similarmovies.MovieMatcher;
+import kc596.similarmovies.Movie;
+import kc596.similarmovies.MovieMatcher;
 
 /**
  * Test class to get similar movies for each movie in the list.

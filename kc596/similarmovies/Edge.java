@@ -1,4 +1,4 @@
-package buzzotel.similarmovies;
+package kc596.similarmovies;
 
 /**
  * The {@code Edge} class represents a weighted edge in an weighted Graph.

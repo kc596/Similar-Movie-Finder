@@ -1,4 +1,4 @@
-package buzzotel.similarmovies;
+package kc596.similarmovies;
 
 import java.util.ArrayList;
 import java.util.HashSet;
